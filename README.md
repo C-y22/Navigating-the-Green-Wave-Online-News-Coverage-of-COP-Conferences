@@ -11,11 +11,7 @@ pip install -r requirements.txt
 ```
 Note: time, datetime, warnings, and hashlib are python build-in module, so they are not included in the requirements.txt
 
-The scrapped datasets being analyzed are too big to upload to GitHub, so here are the links:
-
-CNN: https://drive.google.com/file/d/1YQ-8W8yc4yGnGviU2Eskkye6kfoIsAlw/view?usp=share_link
-
-Fox: [https://drive.google.com/file/d/1dKIeDFRfHymxZVBvZz2jYjlHn0PCkoFt/view?usp=share_link](https://drive.google.com/file/d/1UDacHeXy95kDWBpWL_QHt7DhXpKW4S8b/view?usp=share_link)
+The scrapped datasets being analyzed are too big to upload to GitHub, so here is the link: https://drive.google.com/file/d/1ZxrRfESmmTWii27er-DJmzgsxNlG59ru/view?usp=sharing
 
 
 Then, you can import the `fox` module and `cnn` located in this repository to reproduce the web-scrapping process in the (hypothetical) publication that this code supplements (in a Jupyter Notebook, like README.ipynb in this repository, or in any other Python script): 
