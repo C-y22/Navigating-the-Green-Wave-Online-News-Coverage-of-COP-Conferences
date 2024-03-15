@@ -14,7 +14,7 @@ Note: time, datetime, warnings, and hashlib are python build-in module, so they 
 The scrapped datasets being analyzed are too big to upload to GitHub, so here is the link: https://drive.google.com/file/d/1ZxrRfESmmTWii27er-DJmzgsxNlG59ru/view?usp=sharing
 
 
-Then, you can import the `fox` module and `cnn` located in this repository to reproduce the web-scrapping process in the (hypothetical) publication that this code supplements (in a Jupyter Notebook, like README.ipynb in this repository, or in any other Python script): 
+Then, you can import the `fox`, `sun` and `cnn` module located in this repository to reproduce the web-scrapping process in the (hypothetical) publication that this code supplements (in a Jupyter Notebook, like README.ipynb in this repository, or in any other Python script): 
 
 
 ```python
