@@ -29,6 +29,8 @@ The `Sentiment_Analysis5.ipynb` contains the codes for the sentiment analysis of
 
 The `TopicModeling6.ipynb` contains the codes for the LDA topic modeling of the data. 
 
+The `monthly2020-2023.zip` contains the results of topic modeling. 
+
 The `frequency2.5.ipynb` contains the codes for the frequency analysis the data. 
 
 
