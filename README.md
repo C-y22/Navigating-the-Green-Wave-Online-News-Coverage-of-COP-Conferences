@@ -43,7 +43,7 @@ https://github.com/macs30200-s23/replication-materials-chunyang/blob/main/carbon
 
 To cite this reposotiry in APA, please use:
 
-Zhang, Chunyang. (2024, April 15). replication-materials-chunyang. GitHub. https://github.com/macs30200-s23/replication-materials-chunyang.git
+Zhang, Chunyang. (2024, April 15). replication-materials-chunyang. GitHub. [https://github.com/macs30200-s23/replication-materials-chunyang.git](https://github.com/C-y22/Navigating-the-Green-Wave-Online-News-Coverage-of-COP-Conferences.git)
 
 For in-text citation:
 
