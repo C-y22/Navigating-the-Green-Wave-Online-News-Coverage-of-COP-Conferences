@@ -23,14 +23,14 @@ import cnn
 import sun
 ```
 
+The `FrequencyAnova2.ipynb` contains the codes for the ANOVA analysis of the number of news for different time intervals of the data. 
 
-The `climateproj.ipynb` contains the codes for sentiment analysis, clustering, topic frequency of analyzing the CNN, Fox, CNN + Fox data.
+The `Sentiment_Analysis5.ipynb` contains the codes for the sentiment analysis of the data. 
 
-The `EDA.ipynb` contains the codes for the Exploratory Data Analysis of the CNN, Fox, CNN + Fox data.
+The `TopicModeling6.ipynb` contains the codes for the LDA topic modeling of the data. 
 
-The `keyword_sd.ipynb` contains the codes for calculating and drawing the standard deviation plot of the CNN, Fox, CNN + Fox data.
+The `frequency2.5.ipynb` contains the codes for the frequency analysis the data. 
 
-The `stopwords.txt` contains the stopwords being used in climateproj.ipynb. 
 
 ## Initial Findings
 
