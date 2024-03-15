@@ -20,6 +20,7 @@ Then, you can import the `fox` module and `cnn` located in this repository to re
 ```python
 import fox
 import cnn
+import sun
 ```
 
 
