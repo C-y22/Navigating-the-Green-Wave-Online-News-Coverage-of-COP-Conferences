@@ -34,13 +34,6 @@ The `monthly2020-2023.zip` contains the results of topic modeling.
 The `frequency2.5.ipynb` contains the codes for the frequency analysis the data. 
 
 
-## Initial Findings
-
-"carbon emission" is one of the most relevant keywords related to the Paris Agreement. The frequency of it based on years matches with the "issue attention cycle" well, because the curve starts to go up before 2015 (the year of the Paris Agreement), reaches a peak at 2015, and then goes down, which matches with the five stages in the theory (re-problems stage, alarmed discovery and euphoria stage, realizing the cost of significant progress stage, gradual decline of public interest stage, post-problem stage) . 
-
-https://github.com/macs30200-s23/replication-materials-chunyang/blob/main/carbonemission.jpeg
-![carbon emission frequency from 2011-2022](https://github.com/macs30200-s23/replication-materials-chunyang/blob/main/carbonemission.jpeg)
-
 ## How to cite this
 
 To cite this reposotiry in APA, please use:
